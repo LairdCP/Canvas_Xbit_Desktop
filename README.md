@@ -1,6 +1,15 @@
-# Canvas_Xbit_Desktop
-- Windows: (https://2784-public.s3.amazonaws.com/xbit+Setup+0.5.0.exe)*
-- MacOS: (https://2784-public.s3.amazonaws.com/xbit-0.5.0.dmg)
-- Linux: (https://2784-public.s3.amazonaws.com/xbit-0.5.0.AppImage)
+# Canvas XBit Software Resources
 
-> \* Windows executable is currently unsigned and will cause a warning when installing. A signed version is coming soon.
+## Canvas_Xbit_Desktop
+- Windows
+- MacOS
+- Linux
+
+## Canvas_Xbit_Mobile
+- Android
+- iOS
+
+## Canvas_Xbit_Applets
+- Terminal Emulator: (https://github.com/LairdCP/xbit-applet-terminal-console)
+- Sera NX040 Tag-to-tag positioning demostration: (https://github.com/LairdCP/xbit-applet-sera-tag-to-tag)
+- BT510 Realtime Tilt demostration: (https://github.com/LairdCP/xbit-applet-tilt3d-demo-app)
