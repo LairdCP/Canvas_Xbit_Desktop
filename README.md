@@ -1,10 +1,9 @@
 # Canvas XBit Software Resources
 
 ## Canvas_Xbit_Desktop Downloads
-- [Windows Installer](https://2784-public.s3.amazonaws.com/xbit+Setup+0.6.1.exe)*
-- [MacOS DMG](https://2784-public.s3.amazonaws.com/xbit-0.6.1.dmg)
-- [Linux App Image](https://2784-public.s3.amazonaws.com/xbit-0.6.1.AppImage)
-> \* Installer is not signed yet, click through the warning for now.
+- [Windows Installer](https://2784-public.s3.amazonaws.com/xbit-Setup-0.6.2.exe)
+- [MacOS DMG](https://2784-public.s3.amazonaws.com/xbit-0.6.2.dmg)
+- [Linux App Image](https://2784-public.s3.amazonaws.com/xbit-0.6.2.AppImage)
 
 ## Canvas_Xbit_Mobile
 - Android
