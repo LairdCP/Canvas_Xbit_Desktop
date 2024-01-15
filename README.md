@@ -17,4 +17,4 @@ Source Code Repository Links. These applets can be installed within the Xbit App
 - Terminal Emulator: https://github.com/LairdCP/xbit-applet-terminal-console (Desktop Only)
 
 ## Canvas VS Code Extension
-- [Marketplace Link] https://marketplace.visualstudio.com/items?itemName=rfp-canvas.xbit-vsc
+- [Marketplace Link] (https://marketplace.visualstudio.com/items?itemName=rfp-canvas.xbit-vsc)
