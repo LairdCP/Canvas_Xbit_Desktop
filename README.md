@@ -16,3 +16,5 @@ Source Code Repository Links. These applets can be installed within the Xbit App
 - BT510 Realtime Tilt demostration: https://github.com/LairdCP/xbit-applet-tilt3d-demo-app
 - Terminal Emulator: https://github.com/LairdCP/xbit-applet-terminal-console (Desktop Only)
 
+## Canvas VS Code Extension
+- [Marketplace Link] https://marketplace.visualstudio.com/items?itemName=rfp-canvas.xbit-vsc
