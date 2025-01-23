@@ -1,20 +1,15 @@
 # Canvas XBit Software Resources
 
+## Canvas Xbit Desktop Downloads 0.6.6
+- [Windows Installer](https://2784-public.s3.amazonaws.com/xbit-Setup-0.6.6.exe)
+
 ## Canvas_Xbit_Desktop Downloads 0.6.4
-- [Windows Installer](https://2784-public.s3.amazonaws.com/xbit-Setup-0.6.4.exe)
 - [MacOS DMG](https://2784-public.s3.amazonaws.com/xbit-0.6.4.dmg)
 - [Linux App Image](https://2784-public.s3.amazonaws.com/xbit-0.6.4.AppImage)
 
 ## Canvas_Xbit_Mobile
-- Android
-- iOS
-
-## Canvas_Xbit_Applets
-Source Code Repository Links. These applets can be installed within the Xbit Application, but source code is provided for reference.
-- Canvas Hub Firmware Update Utility: https://github.com/LairdCP/xbit-applet-canvas-hub
-- Sera NX040 Tag-to-tag positioning demostration: https://github.com/LairdCP/xbit-applet-sera-tag-to-tag
-- BT510 Realtime Tilt demostration: https://github.com/LairdCP/xbit-applet-tilt3d-demo-app
-- Terminal Emulator: https://github.com/LairdCP/xbit-applet-terminal-console (Desktop Only)
+- [Android](https://play.google.com/store/apps/details?id=com.rfpros.xbitmobile)
+- [iOS](https://apps.apple.com/us/app/canvas-xbit-mobile/id6478117073)
 
 ## Canvas VS Code Extension
 - [Marketplace Link](https://marketplace.visualstudio.com/items?itemName=rfp-canvas.xbit-vsc)
